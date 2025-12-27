@@ -1,0 +1,10 @@
+nohup: ./run.sh: Permission denied
+开始执行校准脚本，参数：test_day=1015, train_days=10, calib_method=1
+日志将保存至：./result/hb_calibrationV2d3_result_fast_pcvr_flow1_1015.txt
+脚本执行失败，详情请查看日志：./result/hb_calibrationV2d3_result_fast_pcvr_flow1_1015.txt
+开始执行校准脚本，参数：test_day=1015, train_days=1, calib_method=1
+日志将保存至：./result/hb_calibrationV2d3_result_fast_pcvr_flow1_1015.txt
+脚本执行成功，日志路径：./result/hb_calibrationV2d3_result_fast_pcvr_flow1_1015.txt
+开始执行校准脚本，参数：test_day=1015, train_days=1, calib_method=1
+日志将保存至：./result/hb_calibrationV2d3_result_fast_pcvr_flow1_1015.txt
+脚本执行成功，日志路径：./result/hb_calibrationV2d3_result_fast_pcvr_flow1_1015.txt
